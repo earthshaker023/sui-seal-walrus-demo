@@ -13,8 +13,6 @@ Works in two modes:
 - REAL mode (uses your actual SDKs and endpoints)
 - MOCK mode (runs locally end-to-end with no external deps)
 
----
-
 ## Quick Start (MOCK mode)
 
 ```bash
