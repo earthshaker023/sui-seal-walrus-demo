@@ -63,9 +63,6 @@ This is a demo project for encrypting files with SEAL, uploading to Walrus, and 
 ## Project Structure
 
 - `index.js`: Main entry point
-- `src/`: Source code
-  - `adapters/`: Adapter logic
-  - `lib/`: Utility libraries
 
 ## Requirements
 
