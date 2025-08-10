@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { ethers } from 'ethers';
 import fs from 'fs';
 import path from 'path';
@@ -692,4 +691,3 @@ process.on('unhandledRejection', (reason, promise) => {
 main().catch((error) => {
     console.error('💥 Fatal error:', error);
 });
->>>>>>> 0681d92d2503705b3200dfced8743dd25f5f1da5
