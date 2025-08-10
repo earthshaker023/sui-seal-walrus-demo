@@ -1,0 +1,23 @@
+{
+    "name": "seal-walrus-demo",
+    "version": "1.0.0",
+    "description": "Demo script for encrypting files with SEAL, uploading to Walrus, and decrypting",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "ethers": "^6.8.1"
+    },
+    "keywords": [
+        "seal",
+        "walrus",
+        "encryption",
+        "blockchain",
+        "wallet"
+    ],
+    "author": "",
+    "license": "MIT"
+}
