@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 node_modules/
-dist/
-.env
-*.log
-=======
-# Ignore node_modules folder
-node_modules/
->>>>>>> 0681d92d2503705b3200dfced8743dd25f5f1da5
