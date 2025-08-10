@@ -1,21 +1,23 @@
 {
-  "name": "sui-seal-walrus-demo",
-  "version": "1.0.0",
-  "type": "module",
-  "private": true,
-  "scripts": {
-    "start": "tsx src/index.ts",
-    "build": "tsc -p tsconfig.json",
-    "lint": "echo \"(add your linter)\""
-  },
-  "dependencies": {
-    "@mysten/sui.js": "^0.53.0",
-    "axios": "^1.7.2",
-    "commander": "^12.1.0",
-    "dotenv": "^16.4.5"
-  },
-  "devDependencies": {
-    "tsx": "^4.16.2",
-    "typescript": "^5.5.4"
-  }
+    "name": "seal-walrus-demo",
+    "version": "1.0.0",
+    "description": "Demo script for encrypting files with SEAL, uploading to Walrus, and decrypting",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "ethers": "^6.8.1"
+    },
+    "keywords": [
+        "seal",
+        "walrus",
+        "encryption",
+        "blockchain",
+        "wallet"
+    ],
+    "author": "",
+    "license": "MIT"
 }
