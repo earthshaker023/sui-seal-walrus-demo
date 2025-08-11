@@ -1,4 +1,4 @@
-ximport { addUserToAllowlist as addMock } from './allowlist.mock.js';
+import { addUserToAllowlist as addMock } from './allowlist.mock.js';
 import { addUserToAllowlist as addReal } from './allowlist.real.js';
 
 export async function addUserToAllowlist() {

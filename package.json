@@ -17,10 +17,5 @@
     "devDependencies": {
         "tsx": "^4.16.2",
         "typescript": "^5.5.4"
-    },
-    "description": "Demo project for Sui Seal and Walrus",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/earthshaker023/sui-seal-walrus-demo.git"
     }
 }
